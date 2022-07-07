@@ -1,0 +1,41 @@
+/* inside style.css */
+.highlight {
+    background-color: rgb(255, 0, 0);
+  }
+  
+  .error {
+    background-color: lightcoral;
+    border: red;
+  }
+
+  .container {
+    background: rgba(0, 0, 0, 0.9);
+    color: white;
+    width: 80%;
+    height: 300px;
+    left: 100px;
+    position: relative;
+    top: 100px;
+    padding: 20px;
+  }
+
+  .header {
+    width: 200px;
+    height: 50px;
+    left: 400px;
+    bottom: 110px;
+    position: relative;
+    background: rgba(0, 0, 0, 0.9);
+    color: red;
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+
+  #start {
+
+    cursor: pointer;
+    height: 30px;
+    width: 88px;
+  }
